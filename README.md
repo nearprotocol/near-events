@@ -1,4 +1,4 @@
-# near-neps
+# near-events
 A place for NEAR Event Proposals (NEP'S) to be submitted, processed and tracked.
 
 
