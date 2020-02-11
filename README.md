@@ -3,15 +3,12 @@ A place for NEAR Event Proposals (NEP'S) to be submitted, processed and tracked.
 
 
 ## What is a NEP?
-    A NEP is a NEAR Event Proposal. It's the best way for anyone to submit an event to NEAR to be considered. After that, you can easily track the progression of the event.
+   A NEP is a **NEAR Event Proposal**.
+   This is the way for anyone to submit an event to NEAR to be considered.
     
     
 ## How do I submit a NEP?
     Submit a NEP as an issue. Be sure to add the appropriate tags, and follow the template for NEP's.
-    
-## How will I know if my NEP is being considered?
-    Your NEP will have the 'considering' tag!
-    
-## How will I know if my NEP is approved and moving forward?
-    Your NEP will have the 'aaproved' tag!
-    
+        Required Tags for NEPS:
+        1) Location -- pick a continent from the tags list
+        2) Type of support - pick between `sponsored`, `attendance`, `help wanted`, or any combo of the three
