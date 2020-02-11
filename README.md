@@ -1,5 +1,5 @@
 # near-events
-A place for NEAR Events to be sumbitted.
+A place for NEAR Events to be submitted.
     
     
 ## How do I submit a NEAR Event?
