@@ -10,8 +10,12 @@ assignees: ashleynear
 **What is the event?**
 A clear and concise description of what the event is. 
 
+
 **When is the event?**
 A clear and concise description of the event date and times.
+
+**Who are the attendees and how many are expected?**
+A clear and concise description of the type of attendess (developers, students, ect.) and how many are expected.
 
 **Describe how you'd like NEAR to ideally participate**
 A clear and concise description of what you want to happen involving NEAR.
