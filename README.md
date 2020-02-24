@@ -29,3 +29,8 @@ Specifically, these are the key criteria we consider:
 5. Opportunity cost -- what other events are happening at the same time that we may already be attending or interested in?
 
 Basically, the best events involve high impact speaking opportunities and interaction with many developers and don't require substantial travel from core team members.
+
+
+##Additional information
+
+You can find all cards and all proccesses attached to them here: https://trello.com/b/l4DPKFge/near-events
