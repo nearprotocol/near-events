@@ -31,6 +31,6 @@ Specifically, these are the key criteria we consider:
 Basically, the best events involve high impact speaking opportunities and interaction with many developers and don't require substantial travel from core team members.
 
 
-##Additional information
+## Additional information
 
 You can find all cards and all proccesses attached to them here: https://trello.com/b/l4DPKFge/near-events
