@@ -6,15 +6,12 @@ This is the place for NEAR Events to be submitted by anyone.  Events include:
     
     
 ## How do I submit a NEAR Event?
-Submit it as an issue. Be sure to add the appropriate tags, and follow the template.
+Please fill out this form: https://airtable.com/shrYFHxsPPDb6nWrx
 
-Required Tags:
-1. Location -- pick a continent from the tags list
-2. Type of support - pick between `sponsored`, `attendance`, `help wanted`, or any combo of the three
 
 ## What happens next?
 
-Events are reviewed as part of a weekly process (to be made public soon).  This may result in additional questions, tags, etc to see if there are enough resources to participate in the event and add it to a team's calendar.
+Events are reviewed as part of a bi-weekly process (to be made public soon).  This may result in additional questions, etc to see if there are enough resources to participate in the event and add it to a team's calendar.
     
 ## How are decisions made?
 
@@ -29,8 +26,3 @@ Specifically, these are the key criteria we consider:
 5. Opportunity cost -- what other events are happening at the same time that we may already be attending or interested in?
 
 Basically, the best events involve high impact speaking opportunities and interaction with many developers and don't require substantial travel from core team members.
-
-
-## Additional information
-
-You can find all cards and all proccesses attached to them here: https://trello.com/b/l4DPKFge/near-events
